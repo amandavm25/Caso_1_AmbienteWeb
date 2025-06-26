@@ -1,0 +1,21 @@
+.fila-peligro {
+    background-color: #cc0000 !important; 
+    color: white !important;
+}
+
+.fila-alerta {
+    background-color: #ffe599 !important;
+    color: black !important;
+}
+
+table.table .fila-peligro td,
+table.table .fila-alerta td {
+    background-color: inherit !important;
+    color: inherit !important;
+}
+
+.encabezado-personalizado th {
+    background-color: #363634 !important; 
+    color: white !important;
+    border-color: #dee2e6; 
+}
