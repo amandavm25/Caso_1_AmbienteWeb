@@ -11,21 +11,21 @@ Este proyecto simula un sistema básico para un taller mecánico llamado **Talle
 - JavaScript (Frontend)
 - PHP (para renderizar la tabla)
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
-- ✅ Login simulado (usuario: `TallerABC`, contraseña: `Valverde25`)
-- ✅ Visualización de órdenes de servicio
-- ✅ Colores por estado:
+- Login simulado (usuario: `TallerABC`, contraseña: `Valverde25`)
+- Visualización de órdenes de servicio
+- Colores por estado:
   - Amarillo: órdenes con más de 7 días (alerta)
   - Rojo: órdenes finalizadas sin pago (peligro)
-- ✅ Formulario en modal para agregar nuevas órdenes
-- ✅ Validación de campos antes de agregar la orden
+- Formulario en modal para agregar nuevas órdenes
+- Validación de campos antes de agregar la orden
 
-## 🧠 Aprendizaje
+## Aprendizaje
 
 Este proyecto fue realizado como parte del curso **SC502 - Ambiente Web Cliente Servidor**. Se aplicaron conocimientos de estructuras HTML, formularios, estilos con Bootstrap, lógica en JavaScript y generación de contenido dinámico con PHP.
 
-## 👩‍💻 Autor
+## Autor
 
 **Amanda Valverde Mora**
 
